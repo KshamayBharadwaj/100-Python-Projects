@@ -1,123 +1,120 @@
 # 🚀 100 Python Projects Challenge
 
-Welcome to the **100 Python Projects Challenge**! This repository is designed to help you master Python through **hands-on coding**. Whether you're a beginner or an advanced programmer, these projects will enhance your skills and build a strong portfolio.
+Welcome to the **100 Python Projects Challenge!** This repository contains a collection of Python projects designed to improve your coding skills, from beginner to advanced levels.
 
 ---
 
-## 📌 Project Breakdown
-The projects are divided into three categories:
-- **Beginner (Days 1-40)** – Fundamental projects to strengthen your basics.
-- **Intermediate (Days 41-80)** – Web development, automation, and advanced scripting.
-- **Advanced (Days 81-100)** – AI, ML, and real-world applications.
-
----
-
-## 🟢 Beginner Projects (Days 1-40)
-
-### 🌟 Main Projects
-- ✨ **Calculator** – Perform basic arithmetic operations.
-- 📝 **To-Do List (CLI)** – Manage daily tasks via command line.
+## 📌 Beginner Projects
+### 🔹 Main Projects
+- 🧮 **Calculator** – Perform basic arithmetic operations.
+- ✅ **To-Do List (CLI)** – Manage daily tasks via command line.
 - 📂 **File Organizer** – Sort files into folders by type.
-- ⛅ **Weather App (CLI)** – Fetch and display weather data from an API.
+- ☁️ **Weather App (CLI)** – Fetch and display weather data from an API.
 - 💱 **Currency Converter** – Convert currencies using an API.
 - 🔑 **Password Generator** – Generate strong passwords with different options.
-- 🎯 **Quiz App** – Multiple-choice quiz game.
+- ❓ **Quiz App** – Multiple-choice quiz game.
 - ❌⭕ **Tic-Tac-Toe** – Play against a friend or the computer.
-- ⏱ **Stopwatch & Timer** – Basic stopwatch with start, stop, reset.
+- ⏱️ **Stopwatch & Timer** – Basic stopwatch with start, stop, reset.
 - 💰 **Expense Tracker** – Track and categorize expenses.
 - 🎭 **Hangman Game** – Word guessing game.
 - ✊✋✌ **Rock Paper Scissors** – Play against a computer with randomness.
 - 📧 **Email Validator** – Check if an email address is valid.
 - 🎂 **Age Calculator** – Calculate a person’s age based on DOB.
 - 🔢 **Binary to Decimal Converter** – Convert between number systems.
-- 📝➡️🌐 **Markdown to HTML Converter** – Simple Markdown rendering tool.
+- 📝 **Markdown to HTML Converter** – Simple Markdown rendering tool.
 - ⏰ **Alarm Clock** – Set an alarm that plays a sound.
-- ⚖ **BMI Calculator** – Calculate Body Mass Index.
+- ⚖️ **BMI Calculator** – Calculate Body Mass Index.
 - 🍅 **Pomodoro Timer** – Productivity time tracker.
-- 📔 **Journal App (CLI)** – Save personal notes in text files.
+- 📖 **Journal App (CLI)** – Save personal notes in text files.
 
 ### 🔹 Mini Projects
-- 🖥 **GUI Calculator** – Add a GUI to the calculator using Tkinter.
-- 🎙 **Voice-Activated To-Do List** – Use voice commands to manage tasks.
-- 🔄 **File Renamer** – Batch rename files.
-- 🌤 **Weather App (GUI)** – A Tkinter-based interface for weather reports.
-- 📊 **Currency Rate Tracker** – Auto-update exchange rates.
-- 🔐 **Password Manager** – Store and retrieve saved passwords.
-- 📖 **Flashcards App** – Learn new concepts with flashcards.
-- 🌐 **Multiplayer Tic-Tac-Toe** – Online version using sockets.
+- 🖥️ **GUI Calculator** – Add a GUI to the calculator using Tkinter.
+- 🎙️ **Voice-Activated To-Do List** – Voice commands to manage tasks.
+- 🏷️ **File Renamer** – Batch rename files.
+- 🌤️ **Weather App (GUI)** – A Tkinter-based interface for weather reports.
+- 💲 **Currency Rate Tracker** – Auto-update exchange rates.
+- 🔒 **Password Manager** – Store and retrieve saved passwords.
+- 🃏 **Flashcards App** – Learn new concepts with flashcards.
+- 🎮 **Multiplayer Tic-Tac-Toe** – Online version using sockets.
 - ⏳ **Countdown Timer** – A CLI-based countdown timer.
-- 📑 **Monthly Expense Analyzer** – Generate reports for expenses.
+- 📊 **Monthly Expense Analyzer** – Generate reports for expenses.
+- 📝 **Hangman with Hints** – Provide hints in the game.
+- 🏆 **RPS with Scoreboard** – Keep track of scores.
+- 🚫 **Email Spam Detector** – Simple regex-based spam filtering.
+- 🎂 **Age Calculator (GUI)** – Add a GUI interface.
+- 🔢 **Number System Converter (GUI)** – Add a UI.
+- 📄 **PDF Reader** – Read and extract text from PDFs.
+- 🌎 **World Clock** – Show different time zones.
+- 💧 **Water Reminder App** – Alerts for hydration.
+- ✍ **Markdown Editor** – Write & preview Markdown.
+- 🔐 **Encrypted Journal** – Password-protect your notes.
 
 ---
 
-## 🔵 Intermediate Projects (Days 41-80)
-
-### 🌟 Main Projects
-- 🌍 **Web Scraper** – Extract data from a website.
+## 🚀 Intermediate Projects
+### 🔹 Main Projects
+- 🌐 **Web Scraper** – Extract data from a website.
 - 🔗 **URL Shortener** – Generate short links using Flask.
-- 📝 **Notes App** – Store and retrieve notes.
+- 🗒️ **Notes App** – Store and retrieve notes.
 - 💬 **Chat Application** – Real-time chat using sockets.
-- 🌐 **Portfolio Website** – Flask-based personal site.
+- 🖥️ **Portfolio Website** – Flask-based personal site.
 - 📈 **Stock Price Analyzer** – Track stock trends.
-- 📄 **PDF Merger** – Merge multiple PDFs.
-- 🖼 **Image to Text (OCR)** – Extract text from images.
+- 📚 **PDF Merger** – Merge multiple PDFs.
+- 🖼️ **Image to Text (OCR)** – Extract text from images.
 - 📰 **News Aggregator** – Collect news from APIs.
-- 📓 **Personal Diary App** – Secure daily journal.
+- 📖 **Personal Diary App** – Secure daily journal.
+- ✅ **Todo List (Web App)** – Flask-based task manager.
+- 🌦️ **Weather Dashboard** – API-based weather forecast site.
+- 🎵 **Music Player (CLI)** – Play music files via command line.
+- 📸 **Screenshot Tool** – Capture and save screenshots.
+- 🔎 **QR Code Generator** – Create QR codes for text/URLs.
+- ✉️ **Automated Email Sender** – Send bulk emails using SMTP.
+- 💾 **Automated File Backup** – Periodically back up files.
+- ✂️ **Text Summarizer** – Shorten long articles.
+- 📝 **Data Entry Automation** – Fill forms using Python.
+
+### 🔹 Mini Projects
+- 📊 **Scraper with CSV Export** – Save extracted data to CSV.
+- 🔍 **QR Code Scanner** – Read QR codes.
+- 🌙 **Dark Mode for Portfolio** – Add dark theme toggle.
+- 💹 **Stock Alerts** – Get notified when stock prices change.
+- 📄 **PDF Compressor** – Reduce file size.
+- 🗣️ **Multilingual OCR** – Support multiple languages.
+- 📰 **News Sentiment Analyzer** – Analyze article sentiment.
+- 🎤 **Speech-to-Text Notes** – Convert voice to text.
+- 📩 **Weather Forecast via Email** – Get daily emails with weather.
+- 🛍️ **E-commerce Prototype** – Mockup for an online store.
 
 ---
 
-## 🔴 Advanced Projects (Days 81-100)
-
-### 🌟 Main Projects
-- 🤖 **AI Chatbot** – Intelligent conversation bot.
-- 🏞 **Face Recognition System** – Identify faces using OpenCV.
-- 🎥 **Movie Recommendation System** – Suggest movies with ML.
+## 🤖 Advanced Projects
+### 🔹 Main Projects
+- 🧠 **AI Chatbot** – Intelligent conversation bot.
+- 👤 **Face Recognition System** – Identify faces using OpenCV.
+- 🎬 **Movie Recommendation System** – Suggest movies with ML.
 - ✋ **Hand Gesture Control** – Control a PC with gestures.
 - 😊 **Sentiment Analysis** – Analyze emotions in text.
-- 🕵️‍♂️ **Fraud Detection System** – ML-based fraud detection.
+- 🔍 **Fraud Detection System** – ML-based fraud detection.
 - 🎤 **Speech-to-Text AI** – Convert speech into text.
-- 🎯 **Real-Time Object Detection** – Detect objects via webcam.
-- 🎙 **Voice-Controlled Assistant** – Create a virtual assistant.
-- 🧠 **Self-Learning Bot** – AI that adapts with usage.
+- 🎥 **Real-Time Object Detection** – Detect objects via webcam.
+- 🎙️ **Voice-Controlled Assistant** – Create a virtual assistant.
+- 🤖 **Self-Learning Bot** – AI that adapts with usage.
 
 ### 🔹 Mini Projects
-- 💬 **AI-Powered Chat Enhancements**
+- 🗨️ **AI-Powered Chat Enhancements**
 - 🔐 **Face Recognition Login System**
-- 🎞 **Personalized Movie Suggestions**
+- 🎥 **Personalized Movie Suggestions**
 - ✍ **Handwriting Recognition**
 - 🚫 **AI-Powered Spam Detector**
-- 🏡 **Voice-Controlled Home Automation**
+- 🏠 **Voice-Controlled Home Automation**
 - 📰 **AI News Generator**
-- 🖱 **Virtual Mouse Using Hand Gestures**
-- 📄 **AI-Powered Resume Screener**
-- 🤟 **Real-Time Sign Language Translator**
+- 🖱️ **Virtual Mouse Using Hand Gestures**
+- 📑 **AI-Powered Resume Screener**
+- 👐 **Real-Time Sign Language Translator**
 
 ---
 
-## ⚡ Getting Started
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/KshamayBharadwaj/100-Python-Projects.git
-   ```
-2. **Navigate into the directory:**
-   ```bash
-   cd 100-Python-Projects
-   ```
-3. **Select a project and start coding!**
-4. **For web-based projects, install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+📌 **Want to contribute?** Feel free to fork this repository and add your own ideas!
 
----
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to **improve the code**, **add features**, or **fix bugs**.
-
----
-
-## 📜 License
-This repository is licensed under the **MIT License**.
-
-🔥 **Happy Coding!** 🚀
+🎯 **Let's get coding!** 🚀
 
