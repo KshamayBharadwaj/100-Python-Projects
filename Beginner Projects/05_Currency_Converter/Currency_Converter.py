@@ -1,7 +1,7 @@
 import requests
 
 # Step 1: Set up API details
-API_KEY = "6b73f26b05cb3f387aec5879"  # Replace with your ExchangeRate-API key
+API_KEY = "YOUR_API_KEY"  # Replace with your ExchangeRate-API key
 BASE_URL = f"https://v6.exchangerate-api.com/v6/{API_KEY}/latest/"
 
 # Step 2: Function to convert currency
